@@ -1,0 +1,41 @@
+:root{
+    
+    background-color: (45deg, #fa1f1f, #4900da);
+}
+
+body{
+    
+    background: linear-gradient(45deg, #fca82a, #e000c2);
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    min-width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+    
+}
+
+div{
+    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background: linear-gradient(45deg, #c2eb0c, #cd00e0);
+    
+}
+
+h2{
+    font-size:55px;
+    
+}
+
+#Tauz{
+
+    border: 3px solid white;
+    box-shadow:  1px 2px 5px rgb(221, 213, 213);
+    border-radius: 5px;
+    
+}
+
+
+
